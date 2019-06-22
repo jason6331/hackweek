@@ -3,6 +3,4 @@ This bot was made for the Discord Hack Week contest. It has really cool commands
 
 Creators: Ἱάσων ὁ ,Ϛτλα'#3481 &amp; Andronic123 #8281
 
-Use ```!help``` for commands.
-
-You can look at the code.
+Use ```!help``` in our Discord Server for more information about the commands.
